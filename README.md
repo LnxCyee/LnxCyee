@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LnxCyee .
+- 👀 I’m interested in CyberSecurity .
+- 🌱 I’m currently learning Python , C and Hacking .
+- 💞️ I’m looking to collaborate on CyberSecurity team .
+- 📫 http://t.me/lnxiq
